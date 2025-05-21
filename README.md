@@ -19,4 +19,4 @@ Each study's samples have the following files:
     - `colData(sce)$z`: Annotations 
 
 - `images/HE_sampleID.jpg` or `.png`:  
-  Hematoxylin and Eosin (H&E)-stained histological image
+  - Hematoxylin and Eosin (H&E)-stained histological image
