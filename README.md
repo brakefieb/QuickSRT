@@ -2,9 +2,13 @@
 
 ## SRT Studies:
 
-- `DLPFC`: Dorsolateral Prefrontal Cortex
-- `HER2-Positive`: Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer
-- `MOB`: Mouse Olfactory Bulb
+- `4739739`: Human Breast Cancers  
+- `DLPFC`: Dorsolateral Prefrontal Cortex  
+- `GSE175540`: Tertiary Lymphoid Structure  
+- `GSE193460`: Mouse Model of Lung Adenocarcinoma  
+- `GSE213688`: Cellular Plasticity in Human Breast Cancer Subtypes  
+- `HER2-Positive`: Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer  
+- `MOB`: Mouse Olfactory Bulb  
 
 ---
 
