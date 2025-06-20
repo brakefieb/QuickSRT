@@ -35,4 +35,3 @@ Meylan, M., Petitprez, F., Becht, E. *et al*. Tertiary lymphoid structures gener
 - No TLS  
 - TLS  
 - T_agg  
-
