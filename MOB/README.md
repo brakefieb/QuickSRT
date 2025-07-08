@@ -8,8 +8,9 @@ Patrik L. Ståhl *et al*., Visualization and analysis of gene expression in tiss
 
 **Sample IDs**: 1-12
 
-**Annotations ([CARD GitHub](https://github.com/YMa-lab/CARD))**:
+**Annotations (11: [STexampleData GitHub](https://github.com/lmweber/STexampleData); 12: [CARD GitHub](https://github.com/YMa-lab/CARD))**:
 - Granule cell layer (GCL)
 - Glomerular Layer (GL)
 - Mitral cell layer (MCL)
 - Olfactory nerve layer (ONL)
+- Outer plexiform layer (OPL)
