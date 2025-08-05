@@ -1,4 +1,4 @@
-# 14620362 – Kidney and Lung Cancer with Tertiary Lymphoid Structures
+# 14620362 – Kidney (K) and Lung (L) Cancer with Tertiary Lymphoid Structures
 
 **Citation**:
 
@@ -7,17 +7,8 @@ Dawo, S., Nonchev, K., and Silina, K. 10x visium spatial transcriptomics dataset
 **Download**: [DOI: 10.5281/zenodo.14620362](https://doi.org/10.5281/zenodo.14620362) 
 
 **Sample IDs**: 
-**K: Kidney**
-- KC1
-- KC2
-- KC3
-
-**L: Lung**
-- LC1
-- LC2
-- LC3
-- LC4
-- LC5
+- K: KC1-3
+- L: LC1-5
 
 **Annotations**:
 - Infiltrating cells (INFL)
