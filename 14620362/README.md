@@ -7,8 +7,17 @@ Dawo, S., Nonchev, K., and Silina, K. 10x visium spatial transcriptomics dataset
 **Download**: [DOI: 10.5281/zenodo.14620362](https://doi.org/10.5281/zenodo.14620362) 
 
 **Sample IDs**: 
-- `K: Kidney` - KC1-3
-- `L: Lung` - LC1-5
+**K: Kidney**
+- KC1
+- KC2
+- KC3
+
+**L: Lung**
+- LC1
+- LC2
+- LC3
+- LC4
+- LC5
 
 **Annotations**:
 - Infiltrating cells (INFL)
