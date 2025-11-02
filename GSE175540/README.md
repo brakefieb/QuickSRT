@@ -14,4 +14,4 @@ Meylan, M., Petitprez, F., Becht, E. *et al*. Tertiary lymphoid structures gener
 **Annotations**:
 - No TLS  
 - TLS  
-- T_agg  
+- Tumor aggregate (T_agg)  
