@@ -10,7 +10,7 @@
 - `GSE175540`: Tertiary Lymphoid Structure  
 - `GSE193460`: Mouse Model of Lung Adenocarcinoma  
 - `GSE213688`: Cellular Plasticity in Human Breast Cancer Subtypes  
-- `HER2-Positive`: Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer  
+- `HER2-Positive[BC\_HER2+\_10x]`: Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer  
 - `MOB`: Mouse Olfactory Bulb  
 
 ---
