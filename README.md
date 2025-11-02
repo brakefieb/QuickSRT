@@ -3,15 +3,15 @@
 ## SRT Studies:
 
 - `14204217` – Triple Negative Breast Cancers
-- `14620362` – Kidney and Lung Cancer with Tertiary Lymphoid Structures
+- `14620362[KC_TLS_10x | LC_TLS_10x]` – Kidney and Lung Cancer with Tertiary Lymphoid Structures
 - `4739739`: Human Breast Cancers
 - `7760264` – Colorectal Cancer Consensus Molecular Subtypes 
-- `DLPFC`: Dorsolateral Prefrontal Cortex  
-- `GSE175540`: Tertiary Lymphoid Structure  
+- `DLPFC[DLPFC_10x]`: Dorsolateral Prefrontal Cortex  
+- `GSE175540[RCC_TLS_10x]`: Tertiary Lymphoid Structure  
 - `GSE193460`: Mouse Model of Lung Adenocarcinoma  
 - `GSE213688`: Cellular Plasticity in Human Breast Cancer Subtypes  
-- `HER2-Positive[BC\_HER2+\_10x]`: Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer  
-- `MOB`: Mouse Olfactory Bulb  
+- `HER2-Positive[BC_HER2+_ST]`: Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer  
+- `MOB[MOB_ST]`: Mouse Olfactory Bulb  
 
 ---
 
