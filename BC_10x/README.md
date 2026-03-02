@@ -1,4 +1,4 @@
-# `BC_NP_10x`: Atlas of Human Breast Cancers
+# `BC_10x`: Human Breast Cancers
 
 **Citation**: 
 
