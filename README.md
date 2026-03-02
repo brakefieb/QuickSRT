@@ -7,8 +7,7 @@
 - `4739739[BC_NP_10x]`: Human Breast Cancers
 - `7760264[CRC_CMS_10x]` – Colorectal Cancer Consensus Molecular Subtypes 
 - `DLPFC[DLPFC_10x]`: Dorsolateral Prefrontal Cortex  
-- `GSE175540[RCC_TLS_10x]`: Tertiary Lymphoid Structure  
-- `GSE193460`: Mouse Model of Lung Adenocarcinoma  
+- `GSE175540[RCC_TLS_10x]`: Tertiary Lymphoid Structure   
 - `GSE213688[BC_HP_10x]`: Cellular Plasticity in Human Breast Cancer Subtypes  
 - `HER2-Positive[BC_HER2+_ST]`: Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer  
 - `MOB[MOB_ST]`: Mouse Olfactory Bulb  
