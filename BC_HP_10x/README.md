@@ -1,4 +1,4 @@
-# `BC_HP_10x`: Cellular Plasticity in Human Breast Cancer Subtypes
+# `BC_HP_10x`: High-Plasticity Breast Cancer Subtypes
 
 **Citation**: 
 
