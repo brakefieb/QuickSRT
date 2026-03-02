@@ -6,7 +6,7 @@ Maynard, K.R., Collado-Torres, L., Weber, L.M. *et al.* Transcriptome-scale spat
 
 **Download**:  
 - [spatialLIBD GitHub](https://github.com/LieberInstitute/spatialLIBD)
-- [jhpce#HumanPilot10x LIBD Globus](https://research.libd.org/globus) (`jhpce#HumanPilot10x`)
+- [jhpce#HumanPilot10x LIBD Globus](https://research.libd.org/globus)
 
 **Sample IDs**:
 - `Subject 1`: 151507 - 151510  
