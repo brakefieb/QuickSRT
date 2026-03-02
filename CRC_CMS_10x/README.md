@@ -4,7 +4,7 @@
 
 Valdeolivas, A., Amberg, B., Giroud, N. *et al.* Profiling the heterogeneity of colorectal cancer consensus molecular subtypes using spatial transcriptomics. *npj Precis. Onc.* **8**, 10 (2024). [https://doi.org/10.1038/s41698-023-00488-4](https://doi.org/10.1038/s41698-023-00488-4)
 
-**Download**: [10.5281/zenodo.7760264](https://doi.org/10.5281/zenodo.7760264) 
+**Download**: [DOI:10.5281/zenodo.7760264](https://doi.org/10.5281/zenodo.7760264) 
 
 **Sample IDs**:
 - `Subject 1`: SN048_A121573_Rep1, SN048_A121573_Rep2
