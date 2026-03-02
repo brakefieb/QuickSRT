@@ -8,7 +8,7 @@
 - `BC_TNBC_ST` – Triple Negative Breast Cancers
 - `CRC_CMS_10x` – Colorectal Cancer Consensus Molecular Subtypes
 - `DLPFC_10x`: Dorsolateral Prefrontal Cortex 
-- `KLC_TLS_10x` – Kidney and Lung Cancer with Tertiary Lymphoid Structures
+- `KLC_TLS_10x` – Kidney (`KC_TLS_10x`) and Lung (`LC_TLS_10x`) Cancer with Tertiary Lymphoid Structures
 - `MOB_ST`: Mouse Olfactory Bulb  
 - `RCC_TLS_10x`: Tertiary Lymphoid Structure      
 
