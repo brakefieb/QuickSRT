@@ -1,4 +1,4 @@
-# BC_TNBC_ST – Triple Negative Breast Cancers
+# `BC_TNBC_ST`: Triple Negative Breast Cancers
 
 **Citation**:
 
