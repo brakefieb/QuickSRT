@@ -1,4 +1,4 @@
-# GSE175540 – Tertiary Lymphoid Structure
+# RCC_TLS_10x – Tertiary Lymphoid Structure
 
 **Citation**: 
 
