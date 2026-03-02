@@ -1,4 +1,4 @@
-# `KLC_TLS_10x` – Kidney (`KC_TLS_10x`) and Lung (`LC_TLS_10x`) Cancer with Tertiary Lymphoid Structures
+# KLC_TLS_10x – Kidney (KC_TLS_10x) and Lung (LC_TLS_10x) Cancer with Tertiary Lymphoid Structures
 
 **Citation**:
 
