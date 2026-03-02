@@ -1,4 +1,4 @@
-# CRC_CMS_10x – Colorectal Cancer Consensus Molecular Subtypes
+# `CRC_CMS_10x`: Colorectal Cancer Consensus Molecular Subtypes
 
 **Citation**:
 
