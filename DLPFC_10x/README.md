@@ -1,4 +1,4 @@
-# `DLPFC_10x`: Dorsolateral Prefrontal Cortex
+# `DLPFC_10x`: Human Dorsolateral Prefrontal Cortex
 
 **Citation**: 
 
