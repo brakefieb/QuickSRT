@@ -1,4 +1,4 @@
-# BC_NP_10x – Human Breast Cancers
+# `BC_NP_10x`: Human Breast Cancers
 
 **Citation**: 
 
