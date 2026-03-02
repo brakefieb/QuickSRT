@@ -6,7 +6,7 @@ Wang, X., Venet, D., Lifrange, F. *et al*. Spatial transcriptomics reveals subst
 
 **Download**: [DOI: 10.5281/zenodo.14204217](https://doi.org/10.5281/zenodo.14204217) 
 
-**Sample IDs**: TNBC1–16, 19–96
+**Sample IDs**: TNBC1–16, TNBC19–96
 
 **Annotations**:
 - Acellular stroma  
