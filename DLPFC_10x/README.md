@@ -9,9 +9,9 @@ Maynard, K.R., Collado-Torres, L., Weber, L.M. *et al*. Transcriptome-scale spat
 - [Globus](https://research.libd.org/globus) (`jhpce#HumanPilot10x`)
 
 **Sample IDs**:
-- `Sample 1`: 151507 - 151510  
-- `Sample 2`: 151669 - 151672  
-- `Sample 3`: 151673 - 151676
+- `Subject 1`: 151507 - 151510  
+- `Subject 2`: 151669 - 151672  
+- `Subject 3`: 151673 - 151676
 
 **Annotations**:
 - Cortical Layer 1 (L1) - Layer 6 (L6)  
