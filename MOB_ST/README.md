@@ -1,4 +1,4 @@
-# MOB – Mouse Olfactory Bulb
+# MOB_ST – Mouse Olfactory Bulb
 
 **Citation**:  
 
