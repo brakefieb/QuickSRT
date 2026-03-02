@@ -2,7 +2,7 @@
 
 **Citation**:  
 
-Patrik L. Ståhl *et al*., Visualization and analysis of gene expression in tissue sections by spatial transcriptomics. *Science* **353**, 78-82 (2016). [DOI:10.1126/science.aaf2403](https://www.science.org/doi/10.1126/science.aaf2403)
+Patrik L. Ståhl *et al*. Visualization and analysis of gene expression in tissue sections by spatial transcriptomics. *Science* **353**, 78-82 (2016). [DOI:10.1126/science.aaf2403](https://www.science.org/doi/10.1126/science.aaf2403)
 
 **Download**: [DOI:10.1126/science.aaf2403](https://www.spatialresearch.org/resources-published-datasets/doi-10-1126science-aaf2403/)  
 
