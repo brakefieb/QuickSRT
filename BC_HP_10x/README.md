@@ -1,4 +1,4 @@
-# GSE213688 –  Cellular Plasticity in Human Breast Cancer Subtypes
+# BC_HP_10x –  Cellular Plasticity in Human Breast Cancer Subtypes
 
 **Citation**: 
 
