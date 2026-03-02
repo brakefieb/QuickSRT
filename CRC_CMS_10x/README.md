@@ -6,18 +6,14 @@ Valdeolivas, A., Amberg, B., Giroud, N. *et al*. Profiling the heterogeneity of 
 
 **Download**: [DOI: 10.5281/zenodo.7760264](https://doi.org/10.5281/zenodo.7760264) 
 
-**Sample IDs**: 
-- `Sample SN048_A121573`: SN048_A121573_Rep1, SN048_A121573_Rep2  
-- `Sample SN048_A416371`: SN048_A416371_Rep1, SN048_A416371_Rep2  
-- `Sample SN123_A551763`: SN123_A551763_Rep1  
-- `Sample SN123_A595688`: SN123_A595688_Rep1  
-- `Sample SN123_A798015`: SN123_A798015_Rep1  
-- `Sample SN123_A938797`: SN123_A938797_Rep1_X  
-- `Sample SN124_A551763`: SN124_A551763_Rep2  
-- `Sample SN124_A595688`: SN124_A595688_Rep2  
-- `Sample SN124_A798015`: SN124_A798015_Rep2  
-- `Sample SN124_A938797`: SN124_A938797_Rep2  
-- `Sample SN84_A120838`: SN84_A120838_Rep1, SN84_A120838_Rep2  
+**Sample IDs**:
+- `Subject 1`: SN048_A121573_Rep1, SN048_A121573_Rep2
+- `Subject 2`: SN048_A416371_Rep1, SN048_A416371_Rep2
+- `Subject 3`: SN123_A551763_Rep1, SN124_A551763_Rep2
+- `Subject 4`: SN123_A595688_Rep1, SN124_A595688_Rep2
+- `Subject 5`: SN123_A798015_Rep1, SN124_A798015_Rep2
+- `Subject 6`: SN123_A938797_Rep1_X, SN124_A938797_Rep2
+- `Subject 7`: SN84_A120838_Rep1, SN84_A120838_Rep2  
 
 **Annotations**:
 - Connective tissue 1 edema  
