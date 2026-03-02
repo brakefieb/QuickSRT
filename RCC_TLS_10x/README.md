@@ -2,7 +2,7 @@
 
 **Citation**: 
 
-Meylan, M., Petitprez, F., Becht, E. *et al*. Tertiary lymphoid structures generate and propagate anti-tumor antibody-producing plasma cells in renal cell cancer. *Immunity* **55**, 527–541.e5 (2022). [https://doi.org/10.1016/j.immuni.2022.02.001](https://doi.org/10.1016/j.immuni.2022.02.001)
+Meylan, M., Petitprez, F., Becht, E. *et al.* Tertiary lymphoid structures generate and propagate anti-tumor antibody-producing plasma cells in renal cell cancer. *Immunity* **55**(3), 527–541.e5 (2022). [https://doi.org/10.1016/j.immuni.2022.02.001](https://doi.org/10.1016/j.immuni.2022.02.001)
 
 **Download**: [GSE175540](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175540)
 
