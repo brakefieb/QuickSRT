@@ -2,8 +2,6 @@
 
 **Citation**: 
 
-Coutant, A., Cockenpot, V., Muller, L. *et al.* (2023). Spatial Transcriptomics Reveal Pitfalls and Opportunities for the Detection of Rare High-Plasticity Breast Cancer Subtypes. *Laboratory Investigation* **103**(12), 100258. [https://doi.org/10.1016/j.labinv.2023.100258](https://doi.org/10.1016/j.labinv.2023.100258)
-
 Coutant, A., Cockenpot, V., Muller, L. *et al.* Spatial transcriptomics reveal pitfalls and opportunities for the detection of rare high-plasticity breast cancer subtypes. *Laboratory Investigation* **103**, 100258 (2023). https://doi.org/10.1016/j.labinv.2023.100258
 
 **Download**: [GS213688](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE213688)
