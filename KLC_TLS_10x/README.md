@@ -6,9 +6,11 @@ Dawo, S., Nonchev, K., and Silina, K. 10x visium spatial transcriptomics dataset
 
 **Download**: [DOI: 10.5281/zenodo.14620362](https://doi.org/10.5281/zenodo.14620362) 
 
-**Sample IDs**: 
-- K: KC1-3
-- L: LC1-5
+**Sample IDs**:
+- `KC_TLS_10x`
+  - KC1-3 
+- `LC_TLS_10x`
+  - LC1-5
 
 **Annotations**:
 - Infiltrating cells (INFL)
