@@ -6,7 +6,7 @@ Patrik L. Ståhl *et al*., Visualization and analysis of gene expression in tiss
 
 **Download**: [DOI:10.1126/science.aaf2403](https://www.spatialresearch.org/resources-published-datasets/doi-10-1126science-aaf2403/)  
 
-**Sample IDs**: 1-12
+**Sample IDs**: 1-12 (5 mice)
 
 **Annotations (11: [STexampleData GitHub](https://github.com/lmweber/STexampleData); 12: [CARD GitHub](https://github.com/YMa-lab/CARD))**:
 - Granule cell layer (GCL)
