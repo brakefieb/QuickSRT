@@ -2,7 +2,7 @@
 
 **Citation**:
 
-Dawo, S., Nonchev, K., and Silina, K. 10x visium spatial transcriptomics dataset: Kidney (3) and lung (5) cancer with tertiary lymphoid structures. January 2025. [DOI: 10.5281/zenodo.14620362](https://doi.org/10.5281/zenodo.14620362)  
+Dawo, S., Nonchev, K., & Silina, K. 10x Visium Spatial Transcriptomics Dataset: Kidney (3) and Lung (5) Cancer with Tertiary Lymphoid Structures [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14620362](https://doi.org/10.5281/zenodo.14620362)  
 
 **Download**: [DOI: 10.5281/zenodo.14620362](https://doi.org/10.5281/zenodo.14620362) 
 
