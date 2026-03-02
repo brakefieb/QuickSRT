@@ -1,4 +1,4 @@
-# `RCC_TLS_10x`: Tertiary Lymphoid Structures in Renal Cell Cancer
+# `RCC_TLS_10x`: Renal Cell Cancer with Tertiary Lymphoid Structures
 
 **Citation**: 
 
