@@ -1,4 +1,4 @@
-# DLPFC – Dorsolateral Prefrontal Cortex
+# DLPFC_10x – Dorsolateral Prefrontal Cortex
 
 **Citation**: 
 
