@@ -2,7 +2,7 @@
 
 **Citation**: 
 
-Andersson, A., Larsson, L., Stenbeck, L. *et al*. Spatial deconvolution of HER2-positive breast cancer delineates tumor-associated cell type interactions. *Nat Commun* **12**, 6012 (2021). [https://doi.org/10.1038/s41467-021-26271-2](https://doi.org/10.1038/s41467-021-26271-2)
+Andersson, A., Larsson, L., Stenbeck, L. *et al.* Spatial deconvolution of HER2-positive breast cancer delineates tumor-associated cell type interactions. *Nat Commun* **12**, 6012 (2021). [https://doi.org/10.1038/s41467-021-26271-2](https://doi.org/10.1038/s41467-021-26271-2)
 
 **Download**: [her2st GitHub](https://github.com/almaan/her2st)
 
