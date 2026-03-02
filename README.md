@@ -20,11 +20,10 @@
 Each study's samples have the following files:
 
 - `data/SCE_sampleID.h5ad` (HDF5 AnnData):
-  - `sce`: SingleCellExperiment (R) / `adata`: AnnData (Python)
-    - `assay(sce, "counts")` / `adata.X`: Gene-by-spot count matrix  
-      - Batch-corrected count matrix for study `14204217`
-    - `reducedDims(sce)$S` / `adata.obsm['S']`: Spatial coordinate matrix
-    - `colData(sce)$z` / `adata.obs['z']`: Annotations
+  - `sce`: SingleCellExperiment (R) | `adata`: AnnData (Python)
+    - `assay(sce, "counts")` | `adata.X`: Gene-by-spot count matrix  
+    - `reducedDims(sce)$S` | `adata.obsm['S']`: Spatial coordinate matrix
+    - `colData(sce)$z` | `adata.obs['z']`: Annotations
 
 - `images/HE_sampleID.jpg` or `.png`:  
   - Hematoxylin and Eosin (H&E)-stained histological image
