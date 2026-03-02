@@ -14,7 +14,7 @@
 
 ---
 
-## SRT Data Structure:
+## SRT Files:
 
 Each study's samples have the following files:
 
