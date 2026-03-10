@@ -14,5 +14,5 @@ Maynard, K.R., Collado-Torres, L., Weber, L.M. *et al.* Transcriptome-scale spat
 - `Subject 3`: 151673 - 151676
 
 **Annotations**:
-- Cortical Layer 1 (L1) - Layer 6 (L6)  
+- Cortical layer 1 (L1) - layer 6 (L6)  
 - White matter (WM)
