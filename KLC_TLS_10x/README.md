@@ -15,6 +15,6 @@ Dawo, S., Nonchev, K., & Silina, K. 10x Visium Spatial Transcriptomics Dataset: 
 **Annotations**:
 - Infiltrating cells (INFL)
 - Lymph node (LN)
-- Normal (NOR)
+- Normal cells (NOR)
 - Tertiary lymphoid structure (TLS)
-- Tumor (TUM)
+- Tumor cells (TUM)
