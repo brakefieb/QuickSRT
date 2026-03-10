@@ -10,7 +10,7 @@ Patrik L. Ståhl *et al*. Visualization and analysis of gene expression in tissu
 
 **Annotations (11: [STexampleData GitHub](https://github.com/lmweber/STexampleData); 12: [CARD GitHub](https://github.com/YMa-lab/CARD))**:
 - Granule cell layer (GCL)
-- Glomerular Layer (GL)
+- Glomerular layer (GL)
 - Mitral cell layer (MCL)
 - Olfactory nerve layer (ONL)
 - Outer plexiform layer (OPL)
