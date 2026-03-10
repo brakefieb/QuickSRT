@@ -17,7 +17,7 @@ Coutant, A., Cockenpot, V., Muller, L. *et al.* Spatial transcriptomics reveal p
 - Endothelial  
 - Fibrosis  
 - Fibrous stroma  
-- High TILs stroma  
+- High Tumor-Infiltrating Lymphocytes (TILs) stroma  
 - Hyperplasia  
 - In situ carcinoma  
 - Lymphocytes  
