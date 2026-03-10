@@ -12,7 +12,7 @@ Wang, X., Venet, D., Lifrange, F. *et al.* Spatial transcriptomics reveals subst
 - Acellular stroma  
 - Fat tissue  
 - Heterologous elements  
-- High TIL stroma  
+- High Tumor-Infiltrating Lymphocyte (TIL) stroma  
 - In situ  
 - Lactiferous duct  
 - Low TIL stroma  
