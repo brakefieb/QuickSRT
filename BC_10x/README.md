@@ -12,7 +12,7 @@ Wu, S.Z., Al-Eryani, G., Roden, D.L. *et al.* A single-cell and spatially resolv
 - Adipose tissue  
 - Artifact  
 - Cancer trapped in lymphocyte aggregation  
-- Ductal Carcinoma In Situ (DCIS)  
+- Ductal carcinoma in situ (DCIS)  
 - Invasive cancer  
 - Invasive cancer + adipose tissue + lymphocytes  
 - Invasive cancer + lymphocytes  
@@ -25,4 +25,4 @@ Wu, S.Z., Al-Eryani, G., Roden, D.L. *et al.* A single-cell and spatially resolv
 - Normal glands + lymphocytes  
 - Stroma  
 - Stroma + adipose tissue  
-- Tertiary Lymphoid Structure (TLS)
+- Tertiary lymphoid structure (TLS)
