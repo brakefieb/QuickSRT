@@ -16,8 +16,9 @@ Valdeolivas, A., Amberg, B., Giroud, N. *et al.* Profiling the heterogeneity of 
 - `Subject 7`: SN84_A120838_Rep1, SN84_A120838_Rep2  
 
 **Annotations**:
+> **IC**: Immune Cell
 - Connective tissue 1 edema  
-- Connective tissue 2 fibroblastic Immune Cell (IC) low  
+- Connective tissue 2 fibroblastic IC low  
 - Connective tissue 3 fibroblastic IC med  
 - Connective tissue 4 muscularis IC low  
 - Epithelium & lam propria  
