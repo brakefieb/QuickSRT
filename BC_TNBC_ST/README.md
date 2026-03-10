@@ -9,10 +9,11 @@ Wang, X., Venet, D., Lifrange, F. *et al.* Spatial transcriptomics reveals subst
 **Sample IDs**: TNBC1–16, TNBC19–96
 
 **Annotations**:
+> **TIL**: Tumor-Infiltrating Lymphocyte
 - Acellular stroma  
 - Fat tissue  
 - Heterologous elements  
-- High Tumor-Infiltrating Lymphocyte (TIL) stroma  
+- High TIL stroma  
 - In situ  
 - Lactiferous duct  
 - Low TIL stroma  
