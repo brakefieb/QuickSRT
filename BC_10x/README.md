@@ -12,7 +12,7 @@ Wu, S.Z., Al-Eryani, G., Roden, D.L. *et al.* A single-cell and spatially resolv
 - Adipose tissue  
 - Artifact  
 - Cancer trapped in lymphocyte aggregation  
-- DCIS  
+- Ductal Carcinoma In Situ (DCIS)  
 - Invasive cancer  
 - Invasive cancer + adipose tissue + lymphocytes  
 - Invasive cancer + lymphocytes  
