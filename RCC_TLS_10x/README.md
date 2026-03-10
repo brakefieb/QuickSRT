@@ -11,6 +11,6 @@ Meylan, M., Petitprez, F., Becht, E. *et al.* Tertiary lymphoid structures gener
 - `Subject 22`: GSM5924030_ffpe_c_2, GSM5924050_frozen_c_2  
 
 **Annotations**:
-- No TLS  
+- No Tertiary Lymphoid Structure (TLS)  
 - TLS  
 - Tumor aggregate (T_agg)  
