@@ -25,4 +25,4 @@ Wu, S.Z., Al-Eryani, G., Roden, D.L. *et al.* A single-cell and spatially resolv
 - Normal glands + lymphocytes  
 - Stroma  
 - Stroma + adipose tissue  
-- TLS
+- Tertiary Lymphoid Structure (TLS)
