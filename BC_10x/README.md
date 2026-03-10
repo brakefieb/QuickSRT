@@ -9,6 +9,7 @@ Wu, S.Z., Al-Eryani, G., Roden, D.L. *et al.* A single-cell and spatially resolv
 **Sample IDs**: 1142243F, 1160920F, CID4290, CID4465, CID44971, CID4535
 
 **Annotations**:
+> **Key:** **IC**: Invasive cancer | **L**: Lymphocytes | **S**: Stroma | **A**: Adipose | **DCIS**: Ductal Carcinoma In Situ | **TLS**: Tertiary Lymphoid Structure
 - Adipose tissue  
 - Artifact  
 - Cancer trapped in lymphocyte aggregation  
