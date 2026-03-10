@@ -17,7 +17,7 @@ Valdeolivas, A., Amberg, B., Giroud, N. *et al.* Profiling the heterogeneity of 
 
 **Annotations**:
 - Connective tissue 1 edema  
-- Connective tissue 2 fibroblastic IC low  
+- Connective tissue 2 fibroblastic Immune Cell (IC) low  
 - Connective tissue 3 fibroblastic IC med  
 - Connective tissue 4 muscularis IC low  
 - Epithelium & lam propria  
