@@ -33,13 +33,13 @@ Each study's samples have the following files:
     adata = read_h5ad("data/SCE_sampleID.h5ad")
 
     # Gene-by-spot count matrix
-    adata.X
+    X = adata.X
     
     # Spot coordinate matrix
-    adata.obsm['S']
+    S = adata.obsm['S']
     
     # Spot pathologist annotations
-    adata.obs['z']
+    z = adata.obs['z']
     ```
       
   - R
@@ -56,13 +56,13 @@ Each study's samples have the following files:
     sce <- readH5AD("data/SCE_sampleID.h5ad")
 
     # Gene-by-spot count matrix
-    assay(sce, "counts")
+    X <- assay(sce, "counts")
     
     # Spot coordinate matrix
-    reducedDims(sce)$S
+    S <- reducedDims(sce)$S
 
     # Spot pathologist annotations
-    colData(sce)$z
+    z <- colData(sce)$z
     ```
 
 - `images/HE_sampleID.jpg` or `.png`:  
