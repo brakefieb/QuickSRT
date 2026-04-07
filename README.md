@@ -19,7 +19,6 @@
 Each study's samples have the following files:
 
 - `data/SCE_sampleID.h5ad` (HDF5 AnnData):
-
   - Python
     ```bash
     pip install anndata
@@ -40,8 +39,7 @@ Each study's samples have the following files:
     
     # Spot pathologist annotations
     z = adata.obs['z']
-    ```
-      
+    ``` 
   - R
     ```R
     # Install packages
