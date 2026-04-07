@@ -19,7 +19,24 @@
 Each study's samples have the following files:
 
 - `data/SCE_sampleID.h5ad` (HDF5 AnnData):
-  - `sce`: SingleCellExperiment (R) | `adata`: AnnData (Python)
+  - **Python** `adata` (AnnData):
+    ```python
+    pip install anndata
+    from anndata import read_h5ad
+    
+    adata = read_h5ad("data/SCE_sampleID.h5ad")
+    ```
+  - **R** `sce` (SingleCellExperiment):
+    ```R
+    if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+    BiocManager::install(c("zellkonverter", "SingleCellExperiment"))
+    
+    library(zellkonverter)
+    library(SingleCellExperiment)
+    
+    sce <- readH5AD("data/SCE_sampleID.h5ad")
+    ```
+  - **Data Structure:**
     - `assay(sce, "counts")` | `adata.X`: Gene-by-spot count matrix  
     - `reducedDims(sce)$S` | `adata.obsm['S']`: Spot coordinate matrix
     - `colData(sce)$z` | `adata.obs['z']`: Spot pathologist annotations
