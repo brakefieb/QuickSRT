@@ -19,21 +19,29 @@
 Each study's samples have the following files:
 
 - `data/SCE_sampleID.h5ad` (HDF5 AnnData):
-  - **Python** `adata` (AnnData):
+  - **Python**
     ```python
+    # Install packages
     pip install anndata
+
+    # Load packages
     from anndata import read_h5ad
-    
+
+    # Load AnnData
     adata = read_h5ad("data/SCE_sampleID.h5ad")
     ```
-  - **R** `sce` (SingleCellExperiment):
+    
+  - **R**
     ```R
+    # Install packages
     if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
     BiocManager::install(c("zellkonverter", "SingleCellExperiment"))
-    
+
+    # Load packages
     library(zellkonverter)
     library(SingleCellExperiment)
-    
+
+    # Load SingleCellExperiment
     sce <- readH5AD("data/SCE_sampleID.h5ad")
     ```
   - **Data Structure:**
