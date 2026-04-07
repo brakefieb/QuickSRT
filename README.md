@@ -21,10 +21,11 @@ Each study's samples have the following files:
 - `data/SCE_sampleID.h5ad` (HDF5 AnnData):
 
   - Python
-    ```python
-    # Install package
+    ```bash
     pip install anndata
-
+    ```
+    
+    ```python
     # Load package
     from anndata import read_h5ad
 
