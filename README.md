@@ -20,12 +20,12 @@ Each study's samples have the following files:
 
 - `data/SCE_sampleID.h5ad` (HDF5 AnnData):
 
-  - **Python**
+  - Python
     ```python
-    # Install packages
+    # Install package
     pip install anndata
 
-    # Load packages
+    # Load package
     from anndata import read_h5ad
 
     # Load AnnData
@@ -41,7 +41,7 @@ Each study's samples have the following files:
     adata.obs['z']
     ```
       
-  - **R**
+  - R
     ```R
     # Install packages
     if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
