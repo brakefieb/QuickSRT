@@ -29,10 +29,16 @@ Each study's samples have the following files:
 
     # Load AnnData
     adata = read_h5ad("data/SCE_sampleID.h5ad")
+
+    # Gene-by-spot count matrix
+    adata.X
+    
+    # Spot coordinate matrix
+    adata.obsm['S']
+    
+    # Spot pathologist annotations
+    adata.obs['z']
     ```
-    - `adata.X`: Gene-by-spot count matrix  
-    - `adata.obsm['S']`: Spot coordinate matrix
-    - `adata.obs['z']`: Spot pathologist annotations
       
   - **R**
     ```R
@@ -46,11 +52,16 @@ Each study's samples have the following files:
 
     # Load SingleCellExperiment
     sce <- readH5AD("data/SCE_sampleID.h5ad")
-    ```
+
+    # Gene-by-spot count matrix
+    assay(sce, "counts")
     
-    - `assay(sce, "counts")`: Gene-by-spot count matrix  
-    - `reducedDims(sce)$S`: Spot coordinate matrix
-    - `colData(sce)$z`: Spot pathologist annotations
+    # Spot coordinate matrix
+    reducedDims(sce)$S
+
+    # Spot pathologist annotations
+    colData(sce)$z
+    ```
 
 - `images/HE_sampleID.jpg` or `.png`:  
   - Hematoxylin and Eosin (H&E)-stained histological image
